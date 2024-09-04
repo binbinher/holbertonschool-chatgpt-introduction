@@ -1,6 +1,6 @@
 # ChatGPT - Introduction
 
-## This is a project of Holberton School, doundations part 2.
+## This is a project of Holberton School, foundations - part 2.
 
 ### Objectives
 
